@@ -104,3 +104,5 @@ $ python main.py --input_type image --action pretrain_image --backbone resnet18 
 [2] Aleksander Madry, Aleksandar Makelov, Ludwig Schmidt, Dimitris Tsipras, and Adrian Vladu. Towards deep learning models resistant to adversarial attacks. arXiv preprint arXiv:1706.06083, 2017. \
 [3] Yinpeng Dong, Fangzhou Liao, Tianyu Pang, Hang Su, Jun Zhu, Xiaolin Hu, and Jianguo Li. Boosting adversarial attacks with momentum. In Proceedings of the IEEE conference on computer vision and pattern recognition, pages 9185–9193, 2018. \
 [4] Pérez-Rosas, V., Abouelenien, M., Mihalcea, R., & Burzo, M. Deception detection using real-life trial data. International Conference on Multimodal Interaction, 2015
+
+shit
